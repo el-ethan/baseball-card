@@ -4,7 +4,6 @@ import { css } from 'emotion';
 
 interface BaseballCardProps {
     name: string;
-    teamName?: string;
     imgPath: string;
     position?: string;
     teamColors: { primary: string, secondary: string };
