@@ -1,0 +1,31 @@
+{
+  "name": "baseball-card",
+  "version": "1.0.4",
+  "description": "Simple baseball card component",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "start": "rollup -c -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.9.41",
+    "emotion": "^10.0.27",
+    "react": "^16.13.1",
+    "typescript": "^3.9.6"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "rollup": "^2.19.0",
+    "rollup-plugin-sass": "^1.2.2",
+    "rollup-plugin-typescript2": "^0.27.1"
+  }
+}
