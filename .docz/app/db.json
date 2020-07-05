@@ -14,10 +14,25 @@
   },
   "entries": [
     {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/Users/ethan/localdev/baseball-card/README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": []
+      }
+    },
+    {
       "key": "src/index.mdx",
       "value": {
         "name": "BaseballCard",
-        "route": "/baseball-card",
+        "route": "/",
         "id": "6576455a124f9aaefd860597f03a8fe4",
         "filepath": "src/index.mdx",
         "fullpath": "/Users/ethan/localdev/baseball-card/src/index.mdx",
