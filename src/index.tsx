@@ -21,6 +21,7 @@ export const BaseballCard:FunctionComponent<BaseballCardProps> = ({name, imgPath
             width: 450px;
             height: 650px;
             padding: 3em;
+            box-shadow: 5.5px 5.5px 5.5px #303030;
         `}>
             <Picture pictureUrl={imgPath} color={teamColors.secondary}></Picture>
             <NameHeader name={name} color={teamColors.secondary}></NameHeader>
