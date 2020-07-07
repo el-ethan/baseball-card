@@ -68,7 +68,7 @@ const config = {
         title: 'Baseball Card',
         description: 'Simple baseball card component',
         host: 'localhost',
-        port: 3001,
+        port: 3000,
         p: 3000,
         separator: '-',
         paths: {
